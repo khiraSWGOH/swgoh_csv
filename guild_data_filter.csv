@@ -1,1 +1,14 @@
-Tag
+                       0          1   ...                   20             21
+0                    name   allyCode  ...             tenacity  critavoidance
+1      Tyfon la Mandale Φ  112477899  ...              0.29908            0.0
+2      Tyfon la Mandale Φ  112477899  ...   1.0536699999999999            0.0
+3      Tyfon la Mandale Φ  112477899  ...  0.47755000000000003            0.0
+4      Tyfon la Mandale Φ  112477899  ...              0.30706            0.0
+...                   ...        ...  ...                  ...            ...
+26246          LordMedina  669739887  ...              0.37855            0.0
+26247          LordMedina  669739887  ...   0.6066400000000001            0.0
+26248          LordMedina  669739887  ...              0.63347            0.0
+26249          LordMedina  669739887  ...              0.52333            0.0
+26250          LordMedina  669739887  ...              0.39409            0.0
+
+[26251 rows x 22 columns]
